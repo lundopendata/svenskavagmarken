@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="152.52"
+   height="152.52"
+   viewBox="0 0 152.52 152.52"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="g1">
+    <g
+       id="group-R5">
+      <path
+         id="path2"
+         d="M 5,1138.86 H 1138.86 V 5 H 5 v 1133.86"
+         style="fill:#37589d;fill-opacity:1;fill-rule:nonzero;stroke:#37589d;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         transform="matrix(0.13333333,0,0,-0.13333333,0,152.52)" />
+      <path
+         id="path3"
+         d="M 5,90.0391 V 1053.82 c 0,22.56 8.9648,44.18 24.9141,60.13 15.9453,15.95 37.5781,24.91 60.125,24.91 H 1053.82 c 22.56,0 44.19,-8.96 60.14,-24.91 15.94,-15.95 24.9,-37.57 24.9,-60.13 V 90.0391 c 0,-22.5508 -8.96,-44.1875 -24.9,-60.1289 C 1098.01,13.9609 1076.38,5 1053.82,5 H 90.0391 C 67.4922,5 45.8594,13.9609 29.9141,29.9102 13.9648,45.8516 5,67.4883 5,90.0391"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(0.13333333,0,0,-0.13333333,0,152.52)" />
+      <path
+         id="path4"
+         d="M 47.5234,90.0391 V 1053.82 c 0,11.28 4.4805,22.09 12.4571,30.07 7.9687,7.97 18.789,12.45 30.0586,12.45 H 1053.82 c 23.48,0 42.52,-19.03 42.52,-42.52 V 90.0391 c 0,-23.4805 -19.04,-42.5196 -42.52,-42.5196 H 90.0391 c -23.4766,0 -42.5157,19.0391 -42.5157,42.5196"
+         style="fill:#37589d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(0.13333333,0,0,-0.13333333,0,152.52)" />
+      <path
+         id="path5"
+         d="M 798.699,567.902 638.352,728.254 458.547,548.449 V 175.078 H 345.156 V 595.414 L 558.176,808.43 397.82,968.781 H 798.699 V 567.902"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(0.13333333,0,0,-0.13333333,0,152.52)" />
+    </g>
+  </g>
+</svg>

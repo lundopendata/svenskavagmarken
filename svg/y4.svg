@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="281.72"
+   height="1122.9067"
+   viewBox="0 0 281.72 1122.9067"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="g1">
+    <g
+       id="group-R5">
+      <path
+         id="path2"
+         d="M 5,5 H 2107.95 V 8416.81 H 5 V 5"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#050301;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:500;stroke-dasharray:none;stroke-opacity:1"
+         transform="matrix(0.13333333,0,0,-0.13333333,0,1122.9067)" />
+      <path
+         id="path3"
+         d="m 2107.95,1661.84 v 892.21 l -605.36,605.38 605.36,605.37 v 892.21 l -605.36,605.37 605.36,605.37 v 892.21 l -605.36,605.37 605.36,605.38 v 446.1 H 1661.86 L 1056.47,7811.44 451.105,8416.81 H 5 v -446.1 L 610.371,7365.33 5,6759.96 V 5867.75 L 610.371,5262.38 5,4657.01 V 3764.8 L 610.371,3159.43 5,2554.05 V 1661.84 L 610.371,1056.47 5,451.09 V 5 H 451.105 L 1056.47,610.371 1661.86,5 h 446.09 v 446.09 l -605.36,605.38 605.36,605.37"
+         style="fill:#155196;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(0.13333333,0,0,-0.13333333,0,1122.9067)" />
+      <path
+         id="path4"
+         d="m 451.105,6313.86 605.365,605.37 605.39,-605.37 -605.39,-605.38 -605.365,605.38"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(0.13333333,0,0,-0.13333333,0,1122.9067)" />
+      <path
+         id="path5"
+         d="M 451.105,4210.9 1056.47,4816.28 1661.86,4210.9 1056.47,3605.53 451.105,4210.9"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(0.13333333,0,0,-0.13333333,0,1122.9067)" />
+      <path
+         id="path6"
+         d="m 451.105,2107.95 605.365,605.37 605.39,-605.37 -605.39,-605.37 -605.365,605.37"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(0.13333333,0,0,-0.13333333,0,1122.9067)" />
+    </g>
+  </g>
+</svg>

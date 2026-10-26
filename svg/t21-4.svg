@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="303.69333"
+   height="152.52"
+   viewBox="0 0 303.69333 152.52"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="g1">
+    <g
+       id="group-R5">
+      <path
+         id="path2"
+         d="M 5,5 H 2272.72 V 1138.86 H 5 V 5"
+         style="fill:#155196;fill-opacity:1;fill-rule:nonzero;stroke:#155196;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         transform="matrix(0.13333333,0,0,-0.13333333,0,152.52)" />
+      <path
+         id="path3"
+         d="M 175.078,5 H 2102.64 c 93.93,0 170.08,76.1484 170.08,170.078 v 793.703 c 0,93.929 -76.15,170.079 -170.08,170.079 H 175.078 C 81.1484,1138.86 5,1062.71 5,968.781 V 175.078 C 5,129.969 22.9219,86.7188 54.8164,54.8203 86.7148,22.9219 129.973,5 175.078,5"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(0.13333333,0,0,-0.13333333,0,152.52)" />
+      <path
+         id="path4"
+         d="M 175.078,90.0391 H 2102.64 c 46.97,0 85.04,38.0819 85.04,85.0389 v 793.703 c 0,46.969 -38.07,85.039 -85.04,85.039 H 175.078 c -22.555,0 -44.183,-8.96 -60.133,-24.9 C 99,1012.97 90.0391,991.34 90.0391,968.781 V 175.078 c 0,-46.957 38.0779,-85.0389 85.0389,-85.0389"
+         style="fill:#155196;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(0.13333333,0,0,-0.13333333,0,152.52)" />
+      <path
+         id="path5"
+         d="M 637.758,451.672 798.109,291.32 1198.99,692.199 1038.64,852.551 637.758,451.672"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(0.13333333,0,0,-0.13333333,0,152.52)" />
+      <path
+         id="path6"
+         d="M 1078.74,451.672 1239.08,291.32 1639.96,692.199 1479.61,852.551 1078.74,451.672"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(0.13333333,0,0,-0.13333333,0,152.52)" />
+      <path
+         id="path7"
+         d="M 1519.7,451.672 1680.05,291.32 2080.93,692.199 1920.58,852.551 1519.7,451.672"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(0.13333333,0,0,-0.13333333,0,152.52)" />
+      <path
+         id="path8"
+         d="M 196.793,451.672 357.152,291.32 758.031,692.199 597.68,852.551 196.793,451.672"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(0.13333333,0,0,-0.13333333,0,152.52)" />
+    </g>
+  </g>
+</svg>

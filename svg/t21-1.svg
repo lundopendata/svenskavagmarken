@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="1587.7867"
+   height="794.56"
+   viewBox="0 0 1587.7867 794.56"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="g1">
+    <g
+       id="group-R5">
+      <path
+         id="path2"
+         d="M 5,5 H 11903.4 V 5954.21 H 5 V 5"
+         style="fill:#155196;fill-opacity:1;fill-rule:nonzero;stroke:#155196;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:500;stroke-dasharray:none;stroke-opacity:1"
+         transform="matrix(0.13333333,0,0,-0.13333333,0,794.56)" />
+      <path
+         id="path3"
+         d="M 718.906,5 H 11189.5 c 394.3,0 713.9,319.629 713.9,713.898 V 5240.3 c 0,394.29 -319.6,713.91 -713.9,713.91 H 718.906 C 324.625,5954.21 5,5634.59 5,5240.3 V 718.898 C 5,324.629 324.625,5 718.906,5"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(0.13333333,0,0,-0.13333333,0,794.56)" />
+      <path
+         id="path4"
+         d="M 718.906,361.949 H 11189.5 c 197.2,0 357,159.813 357,356.949 V 5240.3 c 0,197.15 -159.8,356.96 -357,356.96 H 718.906 c -197.136,0 -356.957,-159.81 -356.957,-356.96 V 718.898 c 0,-197.136 159.821,-356.949 356.957,-356.949"
+         style="fill:#155196;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(0.13333333,0,0,-0.13333333,0,794.56)" />
+      <path
+         id="path5"
+         d="M 5359.29,1492.3 H 4169.45 V 4466.91 H 5359.29 V 1492.3"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(0.13333333,0,0,-0.13333333,0,794.56)" />
+      <path
+         id="path6"
+         d="M 2979.6,1492.3 H 1789.76 V 4466.91 H 2979.6 V 1492.3"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(0.13333333,0,0,-0.13333333,0,794.56)" />
+      <path
+         id="path7"
+         d="M 10118.7,1492.3 H 8928.82 V 4466.91 H 10118.7 V 1492.3"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(0.13333333,0,0,-0.13333333,0,794.56)" />
+      <path
+         id="path8"
+         d="M 7738.97,1492.3 H 6549.13 V 4466.91 H 7738.97 V 1492.3"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(0.13333333,0,0,-0.13333333,0,794.56)" />
+    </g>
+  </g>
+</svg>

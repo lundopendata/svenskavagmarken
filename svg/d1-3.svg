@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="479.12"
+   height="837.53333"
+   viewBox="0 0 479.12 837.53333"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="g1">
+    <path
+       id="path1"
+       d="M 879.777,440.242 H 0.707031"
+       style="fill:none;stroke:#6dcfda;stroke-width:1.41732;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:500;stroke-dasharray:85.0394, 17.0079, 11.3386, 17.0079;stroke-dashoffset:0;stroke-opacity:1"
+       transform="matrix(0.13333333,0,0,-0.13333333,0,837.53333)" />
+    <path
+       id="path2"
+       d="M 440.246,0.710938 V 879.773"
+       style="fill:none;stroke:#6dcfda;stroke-width:1.41732;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:500;stroke-dasharray:85.0394, 17.0079, 11.3386, 17.0079;stroke-dashoffset:0;stroke-opacity:1"
+       transform="matrix(0.13333333,0,0,-0.13333333,0,837.53333)" />
+    <path
+       id="path3"
+       d="m 3588.39,4575.68 c 0,939.32 -761.46,1700.78 -1700.78,1700.78 -939.317,0 -1700.79,-761.46 -1700.79,-1700.78 0,-939.32 761.473,-1700.79 1700.79,-1700.79 939.32,0 1700.78,761.47 1700.78,1700.79"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(0.13333333,0,0,-0.13333333,0,837.53333)" />
+    <path
+       id="path4"
+       d="m 3588.39,4575.68 c 0,939.32 -761.46,1700.78 -1700.78,1700.78 -939.317,0 -1700.79,-761.46 -1700.79,-1700.78 0,-939.32 761.473,-1700.79 1700.79,-1700.79 939.32,0 1700.78,761.47 1700.78,1700.79 z"
+       style="fill:none;stroke:#155196;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:500;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(0.13333333,0,0,-0.13333333,0,837.53333)" />
+    <path
+       id="path5"
+       d="m 3509.02,4575.68 c 0,895.48 -725.92,1621.41 -1621.41,1621.41 -895.485,0 -1621.419,-725.93 -1621.419,-1621.41 0,-895.48 725.934,-1621.41 1621.419,-1621.41 895.49,0 1621.41,725.93 1621.41,1621.41"
+       style="fill:#155196;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(0.13333333,0,0,-0.13333333,0,837.53333)" />
+    <path
+       id="path6"
+       d="m 2018.43,5099 h 523.32 L 1887.61,5753.14 1233.46,5099 h 523.32 V 3398.21 h 261.65 V 5099"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(0.13333333,0,0,-0.13333333,0,837.53333)" />
+  </g>
+</svg>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="454.88"
+   height="454.88"
+   viewBox="0 0 454.88 454.88"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="g1">
+    <path
+       id="path1"
+       d="M 5,3406.57 H 3406.57 V 5 H 5 v 3401.57"
+       style="fill:#155196;fill-opacity:1;fill-rule:nonzero;stroke:#37589d;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(0.13333333,0,0,-0.13333333,0,454.88)" />
+    <path
+       id="path2"
+       d="M 231.77,3406.57 H 3179.8 c 60.14,0 117.83,-23.89 160.36,-66.42 42.53,-42.53 66.41,-100.21 66.41,-160.35 V 231.766 c 0,-60.145 -23.88,-117.821 -66.41,-160.348 C 3297.63,28.8867 3239.94,5 3179.8,5 H 231.77 C 171.625,5 113.945,28.8867 71.418,71.418 28.8906,113.945 5,171.621 5,231.766 V 3179.8 c 0,60.14 23.8906,117.82 66.418,160.35 42.527,42.53 100.207,66.42 160.352,66.42"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(0.13333333,0,0,-0.13333333,0,454.88)" />
+    <path
+       id="path3"
+       d="M 231.77,3293.18 H 3179.8 c 62.62,0 113.38,-50.76 113.38,-113.38 V 231.766 c 0,-62.625 -50.76,-113.387 -113.38,-113.387 H 231.77 c -62.618,0 -113.387,50.762 -113.387,113.387 V 3179.8 c 0,62.62 50.769,113.38 113.387,113.38"
+       style="fill:#155196;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(0.13333333,0,0,-0.13333333,0,454.88)" />
+    <path
+       id="path4"
+       d="M 1263.59,1331.61 V 2760.27 H 855.391 V 1331.61 H 379.172 L 1059.49,651.289 1739.8,1331.61 h -476.21"
+       style="fill:#ee293d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(0.13333333,0,0,-0.13333333,0,454.88)" />
+    <path
+       id="path5"
+       d="M 2420.12,2760.27 3032.4,2147.99 H 2556.18 V 651.289 H 2284.05 V 2147.99 h -476.22 l 612.29,612.28"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(0.13333333,0,0,-0.13333333,0,454.88)" />
+  </g>
+</svg>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="363.02667"
+   height="170.26666"
+   viewBox="0 0 363.02667 170.26666"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="g1">
+    <path
+       id="path1"
+       d="M 284.172,1134.57 H 2438.51 c 78.27,0 141.72,-63.46 141.72,-141.734 v -708.66 c 0,-78.278 -63.45,-141.735 -141.72,-141.735 H 284.172 c -78.274,0 -141.731,63.457 -141.731,141.735 v 708.66 c 0,78.274 63.457,141.734 141.731,141.734 z"
+       style="fill:none;stroke:#231f20;stroke-width:1.41732;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:500;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(0.13333333,0,0,-0.13333333,0,170.26667)" />
+    <path
+       id="path2"
+       d="M 0.707031,1276.3 H 2721.97 V 0.707031 H 0.707031 Z"
+       style="fill:none;stroke:#231f20;stroke-width:1.41732;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:500;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(0.13333333,0,0,-0.13333333,0,170.26667)" />
+    <path
+       id="path3"
+       d="M 879.453,496.773 H 2268.43 V 780.238 H 879.453 V 1092.05 L 425.906,638.508 879.453,184.961 v 311.812"
+       style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(0.13333333,0,0,-0.13333333,0,170.26667)" />
+    <path
+       id="path4"
+       d="M 284.172,1276.3 H 2438.51 c 75.17,0 147.27,-29.86 200.44,-83.02 53.16,-53.17 83.02,-125.27 83.02,-200.444 v -708.66 c 0,-75.18 -29.86,-147.281 -83.02,-200.4416 C 2585.78,30.5703 2513.68,0.707031 2438.51,0.707031 H 284.172 C 208.992,0.707031 136.895,30.5703 83.7305,83.7344 30.5742,136.895 0.707031,208.996 0.707031,284.176 v 708.66 c 0,75.174 29.867169,147.274 83.023469,200.444 53.1645,53.16 125.2615,83.02 200.4415,83.02 z"
+       style="fill:none;stroke:#231f20;stroke-width:1.41732;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:500;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(0.13333333,0,0,-0.13333333,0,170.26667)" />
+  </g>
+</svg>

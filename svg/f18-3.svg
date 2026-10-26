@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="469.41333"
+   height="625.45331"
+   viewBox="0 0 469.41333 625.45331"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="g1">
+    <g
+       id="group-R5">
+      <path
+         id="path2"
+         d="M 5,4685.85 V 5 H 3515.63 V 4685.85 H 5"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(0.13333333,0,0,-0.13333333,0,625.45333)" />
+      <path
+         id="path3"
+         d="M 5,4685.85 V 5 h 3510.63 v 4680.85 z"
+         style="fill:none;stroke:#231f20;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         transform="matrix(0.13333333,0,0,-0.13333333,0,625.45333)" />
+      <path
+         id="path4"
+         d="M 5,4490.82 V 200.031 C 5,148.309 25.5469,98.6992 62.125,62.1211 98.7031,25.5391 148.305,5 200.035,5 H 3320.61 c 51.72,0 101.33,20.5391 137.91,57.1211 36.57,36.5781 57.11,86.1879 57.11,137.9099 V 4490.82 c 0,51.72 -20.54,101.33 -57.11,137.91 -36.58,36.57 -86.19,57.12 -137.91,57.12 H 200.035 c -51.73,0 -101.3319,-20.55 -137.91,-57.12 C 25.5469,4592.15 5,4542.54 5,4490.82"
+         style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(0.13333333,0,0,-0.13333333,0,625.45333)" />
+      <path
+         id="path5"
+         d="M 102.516,4490.82 V 200.031 c 0,-53.859 43.66,-97.511 97.519,-97.511 H 3320.61 c 53.85,0 97.52,43.652 97.52,97.511 V 4490.82 c 0,53.85 -43.67,97.52 -97.52,97.52 H 200.035 c -25.863,0 -50.672,-10.28 -68.957,-28.57 -18.289,-18.29 -28.562,-43.09 -28.562,-68.95"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(0.13333333,0,0,-0.13333333,0,625.45333)" />
+      <path
+         id="path6"
+         d="m 1077.7,4295.78 526.59,-702.13 H 1194.72 V 395.059 H 960.676 V 3593.65 H 551.098 l 526.602,702.13"
+         style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(0.13333333,0,0,-0.13333333,0,625.45333)" />
+      <path
+         id="path7"
+         d="M 2325.93,3593.65 V 395.059 h 234.04 V 3593.65 h 409.57 l -526.6,702.13 -526.59,-702.13 h 409.58"
+         style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(0.13333333,0,0,-0.13333333,0,625.45333)" />
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="454.88"
+   height="681.65332"
+   viewBox="0 0 454.88 681.65332"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="g1">
+    <path
+       id="path1"
+       d="M 5,5107.36 V 5 H 3406.57 V 5107.36 H 5"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(0.13333333,0,0,-0.13333333,0,681.65333)" />
+    <path
+       id="path2"
+       d="M 5,5107.36 V 5 h 3401.57 v 5102.36 z"
+       style="fill:none;stroke:#231f20;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(0.13333333,0,0,-0.13333333,0,681.65333)" />
+    <path
+       id="path3"
+       d="M 5,4823.9 V 288.457 C 5,213.281 34.8672,141.191 88.0273,88.0273 141.188,34.8633 213.285,5 288.469,5 H 3123.11 c 75.18,0 147.28,29.8633 200.44,83.0273 53.16,53.1637 83.02,125.2537 83.02,200.4297 V 4823.9 c 0,75.18 -29.86,147.28 -83.02,200.44 -53.16,53.16 -125.26,83.02 -200.44,83.02 H 288.469 c -75.184,0 -147.281,-29.86 -200.4417,-83.02 C 34.8672,4971.18 5,4899.08 5,4823.9"
+       style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(0.13333333,0,0,-0.13333333,0,681.65333)" />
+    <path
+       id="path4"
+       d="M 146.734,4823.9 V 288.457 c 0,-78.262 63.457,-141.719 141.735,-141.719 H 3123.11 c 78.28,0 141.73,63.457 141.73,141.719 V 4823.9 c 0,78.27 -63.45,141.73 -141.73,141.73 H 288.469 c -37.59,0 -73.641,-14.93 -100.223,-41.51 -26.582,-26.58 -41.512,-62.64 -41.512,-100.22"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(0.13333333,0,0,-0.13333333,0,681.65333)" />
+    <path
+       id="path5"
+       d="M 663.414,656.973 373.508,1076.84 C 1048,1542.56 1450.68,2309.9 1450.68,3129.57 v 305.35 H 940.434 l 765.356,1020.47 765.35,-1020.47 h -510.23 v -305.35 c 0,-819.67 402.66,-1587.01 1077.16,-2052.73 L 2748.16,656.973 C 2290.76,972.793 1929.93,1409.3 1705.79,1917.94 1481.65,1409.3 1120.82,972.793 663.414,656.973"
+       style="fill:#ee293d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(0.13333333,0,0,-0.13333333,0,681.65333)" />
+  </g>
+</svg>

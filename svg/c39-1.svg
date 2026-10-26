@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="469.38666"
+   height="843.58667"
+   viewBox="0 0 469.38666 843.58667"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="g1">
+    <path
+       id="path1"
+       d="M 0.707031,319.602 H 638.484"
+       style="fill:none;stroke:#6dcfda;stroke-width:1.41732;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:500;stroke-dasharray:85.0394, 17.0079, 11.3386, 17.0079;stroke-dashoffset:0;stroke-opacity:1"
+       transform="matrix(0.13333333,0,0,-0.13333333,0,843.58667)" />
+    <path
+       id="path2"
+       d="M 319.602,0.714844 V 638.496"
+       style="fill:none;stroke:#6dcfda;stroke-width:1.41732;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:500;stroke-dasharray:85.0394, 17.0079, 11.3386, 17.0079;stroke-dashoffset:0;stroke-opacity:1"
+       transform="matrix(0.13333333,0,0,-0.13333333,0,843.58667)" />
+    <path
+       id="path3"
+       d="m 3520.39,4626.09 c 0,939.32 -761.47,1700.79 -1700.78,1700.79 -939.333,0 -1700.801,-761.47 -1700.801,-1700.79 0,-939.32 761.468,-1700.79 1700.801,-1700.79 939.31,0 1700.78,761.47 1700.78,1700.79"
+       style="fill:#ee293d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(0.13333333,0,0,-0.13333333,0,843.58667)" />
+    <path
+       id="path4"
+       d="m 2647.01,3618.29 -827.4,827.4 -827.415,-827.4 c 480.945,-394.85 1173.865,-394.85 1654.815,0"
+       style="fill:#155196;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(0.13333333,0,0,-0.13333333,0,843.58667)" />
+    <path
+       id="path5"
+       d="m 811.797,3798.69 827.403,827.4 -827.403,827.4 c -394.848,-480.94 -394.848,-1173.86 0,-1654.8"
+       style="fill:#155196;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(0.13333333,0,0,-0.13333333,0,843.58667)" />
+    <path
+       id="path6"
+       d="m 2827.4,3798.69 c 394.84,480.94 394.84,1173.86 0,1654.8 l -827.4,-827.4 827.4,-827.4"
+       style="fill:#155196;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(0.13333333,0,0,-0.13333333,0,843.58667)" />
+    <path
+       id="path7"
+       d="m 1819.61,4806.48 827.4,827.41 c -480.95,394.85 -1173.87,394.85 -1654.815,0 l 827.415,-827.41"
+       style="fill:#155196;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(0.13333333,0,0,-0.13333333,0,843.58667)" />
+  </g>
+</svg>

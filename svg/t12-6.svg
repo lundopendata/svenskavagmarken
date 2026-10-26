@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="152.52"
+   height="152.52"
+   viewBox="0 0 152.52 152.52"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="g1">
+    <g
+       id="group-R5">
+      <path
+         id="path2"
+         d="M 5,1138.86 H 1138.86 V 5 H 5 v 1133.86"
+         style="fill:#37589d;fill-opacity:1;fill-rule:nonzero;stroke:#37589d;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         transform="matrix(0.13333333,0,0,-0.13333333,0,152.52)" />
+      <path
+         id="path3"
+         d="M 5,90.0391 V 1053.82 c 0,22.56 8.9531,44.19 24.9023,60.14 15.9454,15.95 37.5782,24.9 60.1368,24.9 H 1053.82 c 22.55,0 44.18,-8.95 60.13,-24.9 15.94,-15.95 24.91,-37.58 24.91,-60.14 V 90.0391 c 0,-22.5508 -8.97,-44.1797 -24.91,-60.1289 C 1098,13.9609 1076.37,5 1053.82,5 H 90.0391 C 67.4805,5 45.8477,13.9609 29.9023,29.9102 13.9531,45.8594 5,67.4883 5,90.0391"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(0.13333333,0,0,-0.13333333,0,152.52)" />
+      <path
+         id="path4"
+         d="M 47.5195,90.0391 V 1053.82 c 0,11.28 4.4766,22.09 12.4493,30.07 7.9765,7.97 18.789,12.45 30.0703,12.45 H 1053.82 c 23.47,0 42.52,-19.03 42.52,-42.52 V 90.0391 c 0,-23.4805 -19.05,-42.5196 -42.52,-42.5196 H 90.0391 c -23.4883,0 -42.5196,19.0391 -42.5196,42.5196"
+         style="fill:#37589d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(0.13333333,0,0,-0.13333333,0,152.52)" />
+      <path
+         id="path5"
+         d="M 458.539,288.469 V 515.238 H 968.777 V 628.625 H 458.539 V 855.398 L 175.078,571.938 458.539,288.469"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(0.13333333,0,0,-0.13333333,0,152.52)" />
+    </g>
+  </g>
+</svg>
